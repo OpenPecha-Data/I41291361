@@ -3,5 +3,32 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20865
   title: གསུང་འབུམ། ནམ་མཁའ་འཇིགས་མེད
-  volume: ''
+  volume:
+    6b7dc8b603594932977a5792c7fc80f4:
+      image_group_id: I0174
+      title: ''
+      volume_number: 1
+      total_pages: 646
+    c559500aa96442eb86e79ccbff214a14:
+      image_group_id: I0175
+      title: ''
+      volume_number: 2
+      total_pages: 559
+    5150f7f839204cbf9e65253a71a5ee14:
+      image_group_id: I0176
+      title: ''
+      volume_number: 3
+      total_pages: 731
+    85b4b6401e0e438d9db4869ede1b6cf1:
+      image_group_id: I0177
+      title: ''
+      volume_number: 4
+      total_pages: 555
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། ནམ་མཁའ་འཇིགས་མེད
+  author: ''
+  sku: P007065
+  cover: cover.jpg
+  layers:
+  - pagination
