@@ -25,27 +25,6 @@ source_metadata:
       volume_number: 4
       total_pages: 555
   author: ''
-  volumes:
-    16cf44486f4446839f06785f23c9c260:
-      image_group_id: I0174
-      title: ''
-      volume_number: 1
-      total_pages: 646
-    eb000d021d734faf8aa7a82475c7f9e4:
-      image_group_id: I0175
-      title: ''
-      volume_number: 2
-      total_pages: 559
-    70af2201a9dc471ebaefb276d5f4710d:
-      image_group_id: I0176
-      title: ''
-      volume_number: 3
-      total_pages: 731
-    0c66c994e209415c9d89d0250d07df76:
-      image_group_id: I0177
-      title: ''
-      volume_number: 4
-      total_pages: 555
 ebook_metadata:
   title: གསུང་འབུམ། ནམ་མཁའ་འཇིགས་མེད
   author: ''
